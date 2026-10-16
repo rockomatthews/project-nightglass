@@ -4,7 +4,7 @@ An original 2v2 asymmetric stealth multiplayer project from Hooded Studio, affil
 
 **Goal:** recapture the deliberate stealth, tension, and teamwork of Chaos Theory's classic Spies vs Mercs while improving controls, network reliability, onboarding, and getting a match running. Original characters, maps, artwork, and audio.
 
-**Status: M0 source scaffold and contributor intake. Unreal project files now exist but are not compiled or runtime-verified. No playable build exists yet.** No team membership, funding, or release date is implied.
+**Status (October 16, 2026): Unreal Engine is now installed on the development Mac, and game development is starting. The M0 source scaffold exists; compilation, runtime verification and the first playable build are still pending.** No team membership, funding, or release date is implied.
 
 ## Start here
 
