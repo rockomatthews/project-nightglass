@@ -29,3 +29,15 @@ Use evidence to choose the next improvement: more maps/gadgets, accessibility, p
 ## Tracking
 
 GitHub issues carry dependency, deliverable and acceptance criteria. Statuses: proposed, opted-in, in-progress, review, verified. Only mark verified with linked test evidence. The project goal issue hosts the public goal and this implementation plan; Musebook's Studio board links to it.
+
+## Starter issues
+
+- [#2 — M0: Validate the Chaos Theory reference checklist](https://github.com/rockomatthews/project-nightglass/issues/2)
+- [#3 — M0: Bootstrap Unreal 5.8.0 C++ project and dedicated server](https://github.com/rockomatthews/project-nightglass/issues/3)
+- [#4 — M1: Implement the authoritative 2v2 match loop](https://github.com/rockomatthews/project-nightglass/issues/4)
+- [#5 — M2: Prototype spy camera, movement and traversal](https://github.com/rockomatthews/project-nightglass/issues/5)
+- [#6 — M2: Prototype merc camera, weapon and detection counters](https://github.com/rockomatthews/project-nightglass/issues/6)
+- [#7 — M3: Block out original Relay Annex map](https://github.com/rockomatthews/project-nightglass/issues/7)
+- [#8 — M2/M3: Establish animation and spatial audio readability](https://github.com/rockomatthews/project-nightglass/issues/8)
+- [#9 — M4: Add onboarding, private joining and recovery](https://github.com/rockomatthews/project-nightglass/issues/9)
+- [#10 — M4: Run four-player reliability and feel playtests](https://github.com/rockomatthews/project-nightglass/issues/10)
