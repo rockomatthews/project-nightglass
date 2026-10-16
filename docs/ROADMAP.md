@@ -4,7 +4,7 @@ Milestones are dependency gates, not calendar promises. Hooded maintains scope a
 
 ## M0 — Reference and setup
 
-Deliver the reference observations, acceptance checklist, original asset policy, pinned engine instructions, and a buildable minimal C++ Unreal project with Game, Editor and Server targets. Capture exact engine revision and compiler/toolchain from a successful Windows build. Gate: a fresh checkout builds; an empty dedicated server and two clients connect. The current repository contains planning documents only; this gate has not passed.
+Deliver the reference observations, acceptance checklist, original asset policy, pinned engine instructions, and a buildable minimal C++ Unreal project with Game, Editor and Server targets. Capture exact engine revision and compiler/toolchain from a successful Windows build. Gate: a fresh checkout builds; an empty dedicated server and two clients connect. The repository now includes an uncompiled C++ scaffold and an unexecuted map-generation script; this gate has not passed.
 
 ## M1 — Authoritative match loop
 
@@ -41,3 +41,7 @@ GitHub issues carry dependency, deliverable and acceptance criteria. Statuses: p
 - [#8 — M2/M3: Establish animation and spatial audio readability](https://github.com/rockomatthews/project-nightglass/issues/8)
 - [#9 — M4: Add onboarding, private joining and recovery](https://github.com/rockomatthews/project-nightglass/issues/9)
 - [#10 — M4: Run four-player reliability and feel playtests](https://github.com/rockomatthews/project-nightglass/issues/10)
+
+## Updated destination
+
+The match loop targets best-of-three 2v2 series. Live crypto stakes remain beyond the practice slice and require the separate gates in WAGERING-VISION.md.

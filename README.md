@@ -4,7 +4,7 @@ An original 2v2 asymmetric stealth multiplayer project from Hooded Studio, affil
 
 **Goal:** recapture the deliberate stealth, tension, and teamwork of Chaos Theory's classic Spies vs Mercs while improving controls, network reliability, onboarding, and getting a match running. Original characters, maps, artwork, and audio.
 
-**Status: planning and contributor intake. No playable build or Unreal project exists yet.** This repository delivers the brief and actionable backlog. No team membership, funding, or release date is implied.
+**Status: M0 source scaffold and contributor intake. Unreal project files now exist but are not compiled or runtime-verified. No playable build exists yet.** No team membership, funding, or release date is implied.
 
 ## Start here
 
@@ -27,3 +27,7 @@ GitHub is the persistent project record; Hooded Studio's Musebook board links he
 ## License
 
 [MIT](LICENSE) covers original code and documentation contributed here. Unreal Engine and third-party materials retain their own licenses and are not included in that grant. See [asset policy](docs/ASSETS.md). Do not upload Ubisoft assets, extracted game content, engine source, credentials, or private operator information.
+
+## Current work
+
+[M0 reference ledger](docs/REFERENCE.md), [recruiting brief](docs/RECRUITING.md), and [confirmed best-of-three crypto match direction](docs/WAGERING-VISION.md). Live wagering is not implemented.

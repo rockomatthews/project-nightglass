@@ -25,8 +25,12 @@ These are intended pillars to validate against lawful reference play, not claims
 
 One original graybox map: **Relay Annex**, an industrial communications facility with three separated terminals, at least two approaches per terminal, spy-only traversal links, and merc-accessible patrol loops. These are original layouts, not remakes of existing maps.
 
-Prototype mode: 2v2, 8-minute rounds; spies must complete any two of three terminals. Each terminal needs 20 uninterrupted seconds of interaction by one spy; interruption resets that attempt. Three shared spy respawns, merc respawn after 10 seconds. Spies win on objective completion; mercs win on timeout or no living spies and no remaining respawns. Swap sides after each round; each team attacks once. One round each is a draw initially. All figures are tuning hypotheses, not claimed Chaos Theory rules.
+Prototype mode: 2v2, 8-minute rounds; spies must complete any two of three terminals. Each terminal needs 20 uninterrupted seconds of interaction by one spy; interruption resets that attempt. Three shared spy respawns, merc respawn after 10 seconds. Spies win on objective completion; mercs win on timeout or no living spies and no remaining respawns. Series are best of three rounds: first to two wins. Swap roles between rounds; the third-round side-selection rule remains an explicit balance decision before stakes are supported. All figures are tuning hypotheses, not claimed Chaos Theory rules.
 
 Start with walk/crouch/run, a small authored climb/vault set, spy distraction emitter, merc flashlight and movement sensor, one merc weapon, and a short spy stun to escape. Stun is not a replacement for shooting. Decide additional gadgets and close-quarters mechanics only after reference and balance tests.
 
 No campaign, progression economy, monetization, licensed content, console target, ranked ladder, or public matchmaking in the first slice. No exact fidelity or release date promised.
+
+## Product destination
+
+Two teams of two wager crypto on the best-of-three result, with the winning team taking the agreed pot. See [wagering vision and unresolved rules](WAGERING-VISION.md). First playable remains a no-value practice mode.
